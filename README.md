@@ -20,5 +20,6 @@ Welcome to the Snake Game, a captivating C++ program that combines the thrill of
 - The Food spawns at random places
 
 # Developer
+Saleem Talha
 
-  [Saleem Talha](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBvzTMFXqQSFLsWHJzhKjzFjgQLzZcGHzqNjrnhFLbtNwpRHCNMLQllFBdnKvDkWQwxK) 
+Mail: [saleemtalha967@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSKhcBvzTMFXqQSFLsWHJzhKjzFjgQLzZcGHzqNjrnhFLbtNwpRHCNMLQllFBdnKvDkWQwxK) 
